@@ -20,7 +20,8 @@ Cliente  ->  Botpress (agente + playbook)  ->  Ferramenta HTTP "Registrar lead"
 4. A ferramenta HTTP envia `nome`, `telefone` e `servico` para um webhook do Make.
 5. O Make grava uma linha na planilha, com data e hora no fuso de São Paulo.
 
-!\[Lead na planilha](prints/04\_planilha\_lead\_registrado.png)
+<img width="910" height="552" alt="04_planilha_lead_registrado" src="https://github.com/user-attachments/assets/76376194-839a-4a66-ad49-e2a037e97e23" />
+
 
 ## O que o bot faz e o que não faz
 
@@ -62,8 +63,12 @@ Montei uma tabela de testes ([testes.csv](testes.csv)) e fui anotando cada falha
 |v6|Revisão básica do início ao fim|Pulava a confirmação do serviço e a mensagem final parecia agendamento|Novo fluxo com preço, confirmação e aviso de que não é agendamento|
 |v7|"Quero funilaria"|Dizia que não tinha o serviço, mas pedia confirmação e registrava o lead|O fluxo para quando o serviço não está na base|
 
-!\[Telefone inválido](prints/02\_telefone\_invalido.png)
-!\[Serviço que a oficina não oferece](prints/03\_funilaria\_recusa.png)
+Telefone inválido
+<img width="514" height="666" alt="02_telefone_invalido" src="https://github.com/user-attachments/assets/f2399300-42cc-493a-83e2-444ddc4eafc2" />
+
+Serviço que a oficina não oferece
+<img width="594" height="676" alt="03_funilaria_recusa" src="https://github.com/user-attachments/assets/fa51a42a-fb0f-496e-8f1c-7c20e65a7809" />
+
 
 ## O que a IA gerou e o que eu corrigi
 
