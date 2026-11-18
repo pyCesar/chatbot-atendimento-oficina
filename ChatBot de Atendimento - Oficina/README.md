@@ -9,11 +9,6 @@ Chatbot com IA que atende clientes de uma oficina fictícia, a **AutoCerto Ofici
 
 ## Como funciona
 
-```
-Cliente  ->  Botpress (agente + playbook)  ->  Ferramenta HTTP "Registrar lead"
-         ->  Webhook do Make  ->  Google Sheets (aba leads\\\_chatbot)
-```
-
 1. O cliente conversa com o bot (testei pelo preview e pela simulação do Botpress).
 2. O bot responde usando uma base de conhecimento com os serviços, preços e perguntas frequentes.
 3. Se o cliente pede orçamento, o bot segue um playbook com passos fixos: descobrir o serviço, informar o preço inicial, **pedir confirmação**, pedir o nome, pedir o telefone e só então registrar.
