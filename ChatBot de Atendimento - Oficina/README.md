@@ -107,6 +107,6 @@ chatbot-atendimento-oficina/
 
 ## Autor
 
-Cesar Barbosa  
+Cesar Celeman  
 [LinkedIn](https://www.linkedin.com/in/cesar-barbosa-013622303/) | [GitHub](https://github.com/pyCesar)
 
