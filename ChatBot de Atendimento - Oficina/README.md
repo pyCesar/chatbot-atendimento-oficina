@@ -63,10 +63,8 @@ Montei uma tabela de testes ([testes.csv](testes.csv)) e fui anotando cada falha
 |v6|Revisão básica do início ao fim|Pulava a confirmação do serviço e a mensagem final parecia agendamento|Novo fluxo com preço, confirmação e aviso de que não é agendamento|
 |v7|"Quero funilaria"|Dizia que não tinha o serviço, mas pedia confirmação e registrava o lead|O fluxo para quando o serviço não está na base|
 
-Telefone inválido
 <img width="514" height="666" alt="02_telefone_invalido" src="https://github.com/user-attachments/assets/f2399300-42cc-493a-83e2-444ddc4eafc2" />
 
-Serviço que a oficina não oferece
 <img width="594" height="676" alt="03_funilaria_recusa" src="https://github.com/user-attachments/assets/fa51a42a-fb0f-496e-8f1c-7c20e65a7809" />
 
 
