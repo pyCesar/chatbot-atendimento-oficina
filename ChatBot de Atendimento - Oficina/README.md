@@ -87,18 +87,6 @@ A primeira versão das instruções foi escrita com ajuda de IA. Só lendo o tex
 * **Google Sheets**: registro dos leads
 * **IA generativa (Claude)**: apoio na escrita das instruções e na revisão dos testes
 
-## Estrutura do projeto
-
-```
-chatbot-atendimento-oficina/
-├── README.md
-├── escopo.md
-├── base\\\_conhecimento.md
-├── prompts/
-├── testes.csv
-├── automacao/
-└── prints/
-```
 
 ## Autor
 
