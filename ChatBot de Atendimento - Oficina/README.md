@@ -4,7 +4,6 @@ Chatbot com IA que atende clientes de uma oficina fictícia, a **AutoCerto Ofici
 
 > Projeto de estudo. A oficina, os serviços, os preços e os dados dos testes são fictícios.
 
-!\[Conversa de teste](prints/01\_conversa\_preco\_confirmacao.png)
 <img width="694" height="642" alt="01_conversa_preco_confirmacao" src="https://github.com/user-attachments/assets/a3b5dd70-75d4-4b8d-9f9d-81f07773ca2e" />
 
 
