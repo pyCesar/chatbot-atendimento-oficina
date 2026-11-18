@@ -2,7 +2,7 @@
 
 Chatbot com IA que atende clientes de uma oficina fictícia, a **AutoCerto Oficina**. Ele responde dúvidas sobre serviços e preços iniciais e, quando o cliente quer um orçamento, coleta nome e telefone e registra tudo numa planilha do Google Sheets, usando uma automação no Make.
 
-> Projeto de estudo. A oficina, os serviços, os preços e os dados dos testes são \\\*\\\*fictícios\\\*\\\*.
+> Projeto de estudo. A oficina, os serviços, os preços e os dados dos testes são fictícios.
 
 !\[Conversa de teste](prints/01\_conversa\_preco\_confirmacao.png)
 
